@@ -1,0 +1,38 @@
+#loading{
+    display: none;
+    margin-top: 15%;
+    background-color: rgb(157, 240, 212);
+}
+
+.emptySearchBox{
+    margin: auto;
+    margin-top: 15%;
+    /* width: 350px; */
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600;
+    background-color: aquamarine;
+}
+
+.card1{
+    margin: auto;
+    height: 400px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    /* border: solid 2px black; */
+}
+
+.card3{
+    height: 300px;
+}
+.card3 img{
+    width: 80%;
+    height: 100%;
+    margin-left: 10%;
+    border-radius: 15px;
+ 
+}
+.card2{
+    margin-top: 10px;
+}
+
